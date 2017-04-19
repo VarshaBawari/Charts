@@ -725,6 +725,7 @@
 				TargetAttributes = {
 					06165F231D8110E600722320 = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0830;
 					};
 					06165F2D1D8110E600722320 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -1069,6 +1070,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.dcg.Charts;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_SUPPRESS_WARNINGS = YES;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -1089,6 +1091,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.dcg.Charts;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_SUPPRESS_WARNINGS = YES;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
